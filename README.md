@@ -10,4 +10,4 @@ eksperimentet, hvilket gør det muligt at simulere deres videre
 opførsel.
 
 Prøv simuleringen:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DatalogiForAlle/market_competition/master?filepath=empirical_market_competition_mc.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DatalogiForAlle/market_competition/main?filepath=Markedssimulatoren.ipynb)
